@@ -1,23 +1,22 @@
 {
-  "versao": "0.9.22",
-  "tag": "v0.9.22",
+  "versao": "0.9.23",
+  "tag": "v0.9.23",
   "data": "18/11/2026",
-  "publicadaEm": "2026-11-18T21:54:47.848Z",
+  "publicadaEm": "2026-11-18T22:51:04.137Z",
   "notas": [
-    "Atualização sozinha: os apps (programa do PC e app do Android) procuram versões novas ao abrir e a cada 6 horas. Quando sai uma, o sino mostra “Versão X disponível”. No PC, “Atualizar agora” baixa o instalador, confere, fecha o programa, instala e abre de novo sozinho. No Android, o app baixa a versão nova e abre a tela de instalar (na primeira vez, o Android pede para liberar a instalação para o KML Sistema). Os dados continuam no aparelho. Também em Configurações › Sobre o sistema › Atualizações (“Procurar agora”). Esta é a última versão que precisa ser instalada à mão.",
-    "Sugestões: cada sugestão vai sozinha para análise no GitHub (com internet, nos apps), junto com a tela, a versão e o aparelho. A situação muda dos dois lados: se for mudada lá, muda aqui e o sino avisa quem sugeriu. Na Ajuda, “Ver” mostra a conversa da sugestão e dá para responder dali; resposta nova acende o sino. Sem internet, a sugestão espera no aparelho e vai depois. As sugestões em aberto de antes também vão.",
-    "Erros do sistema: quando alguma tela tem uma falha de programa, o sistema guarda sozinho o que aconteceu e manda para análise, sem ninguém precisar contar. Dá para desligar na Ajuda (Master e Administradores)."
+    "Licença: como os instaladores ficam públicos no GitHub, um aparelho novo (ou com o sistema vazio) agora pede o código de licença da loja antes de criar o Master. Sem o código, ninguém consegue usar o sistema. Os aparelhos que já usavam o sistema não pedem nada. O código é o mesmo para todos os aparelhos da loja e aparece em Configurações › Sobre o sistema › Licença.",
+    "Primeira versão que chega pela atualização sozinha: se este aparelho estava na 0.9.22, o sino mostrou “Versão 0.9.23 disponível” e o “Atualizar agora” fez o resto."
   ],
   "pc": {
-    "arquivo": "KML-Sistema-0.9.22-instalador-PC.exe",
-    "url": "https://github.com/sistema-kml/atualiza/releases/download/v0.9.22/KML-Sistema-0.9.22-instalador-PC.exe",
-    "tamanho": 3778937,
-    "sha256": "085849a5f3bf2a402eb5002fe78416243617b2a44ecb18d461110457f9b4d269"
+    "arquivo": "KML-Sistema-0.9.23-instalador-PC.exe",
+    "url": "https://github.com/sistema-kml/atualiza/releases/download/v0.9.23/KML-Sistema-0.9.23-instalador-PC.exe",
+    "tamanho": 3791539,
+    "sha256": "d21c6d6e4383cf48efa7ae1e28369f4474bde2227b1fc5ad58785b303bbae40d"
   },
   "android": {
-    "arquivo": "KML-Sistema-0.9.22-android.apk",
-    "url": "https://github.com/sistema-kml/atualiza/releases/download/v0.9.22/KML-Sistema-0.9.22-android.apk",
-    "tamanho": 4407366,
-    "sha256": "5ac438bdb6dac59c9b320505a0f1b7b89786b67527551e65264cb86868665b1e"
+    "arquivo": "KML-Sistema-0.9.23-android.apk",
+    "url": "https://github.com/sistema-kml/atualiza/releases/download/v0.9.23/KML-Sistema-0.9.23-android.apk",
+    "tamanho": 4421483,
+    "sha256": "d811e1b7f8e294c08171b19bb46d429c072c943e1b412ddf7ffe5e32aa4a2fee"
   }
 }
