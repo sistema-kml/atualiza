@@ -2,7 +2,7 @@
   "versao": "0.9.22",
   "tag": "v0.9.22",
   "data": "18/11/2026",
-  "publicadaEm": "2026-11-18T21:52:58.463Z",
+  "publicadaEm": "2026-11-18T21:54:47.848Z",
   "notas": [
     "Atualização sozinha: os apps (programa do PC e app do Android) procuram versões novas ao abrir e a cada 6 horas. Quando sai uma, o sino mostra “Versão X disponível”. No PC, “Atualizar agora” baixa o instalador, confere, fecha o programa, instala e abre de novo sozinho. No Android, o app baixa a versão nova e abre a tela de instalar (na primeira vez, o Android pede para liberar a instalação para o KML Sistema). Os dados continuam no aparelho. Também em Configurações › Sobre o sistema › Atualizações (“Procurar agora”). Esta é a última versão que precisa ser instalada à mão.",
     "Sugestões: cada sugestão vai sozinha para análise no GitHub (com internet, nos apps), junto com a tela, a versão e o aparelho. A situação muda dos dois lados: se for mudada lá, muda aqui e o sino avisa quem sugeriu. Na Ajuda, “Ver” mostra a conversa da sugestão e dá para responder dali; resposta nova acende o sino. Sem internet, a sugestão espera no aparelho e vai depois. As sugestões em aberto de antes também vão.",
